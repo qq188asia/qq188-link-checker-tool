@@ -19,13 +19,13 @@
 4. You’ll be notified whether the link is live or unreachable.
 
 ## 🧩 Live Demo
-> Coming soon on GitHub Pages.
+> https://qq188asia.github.io/qq188-link-checker-tool/
 
 ## ⚙️ Tech Stack
 - HTML5
 - CSS3
 - Vanilla JavaScript
-- 
+
 ---
 
 **Disclaimer**: This tool is for informational purposes only. It does not collect or store any user data.
